@@ -1,0 +1,15 @@
+{
+  "workflow_id": "925731ce-74ff-4e7b-a64a-473cd6337091",
+  "status": "in_progress",
+  "stages_completed": [
+    "requirements_analysis",
+    "architecture_design"
+  ],
+  "agent_assignments": {
+    "requirements_analysis": "architect_1",
+    "architecture_design": "architect_1"
+  },
+  "total_execution_time": 0.0,
+  "started_at": "2026-05-24T23:32:29.521910",
+  "completed_at": null
+}
